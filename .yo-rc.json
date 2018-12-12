@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.yousky",
+    "packageFolder": "io/github/jhipster/yousky",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "NzJlODQwZWZiMzllNTM2MmRkMGI4MjM5ZDY5ZWE0ZDVkNGI0Yjc5YjlmMzQ5NTVmZGQ1YWZjMTE1YjAwMGY5Mzc1MzU5YTRmODFhNDA2MzlhMDk0ZDg1NWQ5Yjk2NTdjYTZiZjY4ZDlmYzlmZWYyZjY0N2E5NGQyNjk2ODZjOWY=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "youskypif",
+  "repository-name": "jhipster-sample-application"
+}
